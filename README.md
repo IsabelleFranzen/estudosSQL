@@ -1,4 +1,4 @@
-# Introdução ao Conteúdo de SQL
+# Introdução SQL
 Anotações para ter uma base nos conceitos e comandos de SQL.
 
 ---
