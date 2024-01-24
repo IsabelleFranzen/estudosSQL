@@ -1,5 +1,5 @@
-# Introdução à SQL
-Conteúdo para ter uma base nos conceitos e comandos de SQL.
+# Introdução ao Conteúdo de SQL
+Anotações para ter uma base nos conceitos e comandos de SQL.
 
 ---
 
