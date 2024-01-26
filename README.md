@@ -19,11 +19,11 @@ Para acessar e consultar os dados em um banco de dados, é necessário o uso de 
 Uma query é um pedido de uma informação ou de um dado. Esse pedido também pode ser entendido como uma consulta, uma solicitação ou, ainda, uma requisição. Em resumo, é uma leitura dos dados de uma tabela dentro de um banco de dados. Ou seja, quando queremos visualizar determinados dados de uma tabela, na prática o que queremos é fazer uma consulta aos dados do banco de dados.
 
 ### Padrão ANSI (American National Standard Institute)
-- **DQL - Linguagem de Consulta de Dados** - Define o comando utilizado para que possamos consultar (SELECT) os dados armazenados no banco;
-- **DML (Data Manipulation Language)** - gerencia os dados. Podendo incluir, alterar e excluir informações nas estruturas. Define os comandos utilizados para manipulação de dados no banco (INSERT, UPDATE e DELETE);
-- **DDLs (Data Definition Language)** - permite a manipulação das estruturas do banco de dados. Define os comandos utilizados para criação (CREATE) de tabelas, views, índices, atualização dessas estruturas (ALTER), assim como a remoção (DROP);
-- **DCL (Data Control Language)** - administra o banco de dados como, por exemplo, o controle de acesso, o gerenciamento do usuário e o banco ao nível de estruturas, e administrando os processos. Define os comandos utilizados para controlar o acesso aos dados do banco, adicionando (GRANT) e removendo (REVOKE) permissões de acesso;
-- **DTL - Linguagem de Transação de Dados** - Define os comandos utilizados para gerenciar as transações executadas no banco de dados, como iniciar (BEGIN) uma transação, confirmá-la (COMMIT) ou desfazê-la (ROLLBACK).
+- **DQL (Linguagem de Consulta de Dados)** - Define o comando utilizado para que possamos consultar os dados armazenados no banco;
+- **DML (Data Manipulation Language)** - gerencia os dados. Podendo incluir, alterar e excluir informações nas estruturas. Define os comandos utilizados para manipulação de dados no banco;
+- **DDLs (Data Definition Language)** - permite a manipulação das estruturas do banco de dados. Define os comandos utilizados para criação de tabelas, views, índices, atualização dessas estruturas, assim como a remoção;
+- **DCL (Data Control Language)** - administra o banco de dados como, por exemplo, o controle de acesso, o gerenciamento do usuário e o banco ao nível de estruturas, e administrando os processos. Define os comandos utilizados para controlar o acesso aos dados do banco, adicionando e removendo permissões de acesso;
+- **DTL - Linguagem de Transação de Dados** - Define os comandos utilizados para gerenciar as transações executadas no banco de dados, como iniciar uma transação, confirmá-la ou desfazê-la.
 
 ![SQL](https://github.com/IsabelleFranzen/estudosSQL/assets/153524872/90237a43-84ef-4b56-a221-90bdb6a61e37)
 
